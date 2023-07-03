@@ -676,16 +676,16 @@ static u8 GetMailboxMailCount(void)
 static void Mailbox_CompactMailList(void)
 {
     struct Mail temp;
-    u8 i, j;
+    //u8 i, j;
 
-    for (i = PARTY_SIZE; i < MAIL_COUNT - 1; i++)
+    /*for (i = PARTY_SIZE; i < MAIL_COUNT - 1; i++)
     {
         for (j = i + 1; j < MAIL_COUNT; j++)
         {
             if (gSaveBlock1Ptr->mail[i].itemId == ITEM_NONE)
                 SWAP(gSaveBlock1Ptr->mail[i], gSaveBlock1Ptr->mail[j], temp);
         }
-    }
+    }*/
 }
 
 static void Mailbox_DrawMailboxMenu(u8 taskId)

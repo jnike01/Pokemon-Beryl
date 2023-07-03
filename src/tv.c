@@ -2562,7 +2562,7 @@ static void ClearPokeNewsBySlot(u8 i)
     gSaveBlock1Ptr->pokeNews[i].dayCountdown = 0;
 }
 
-static void CompactPokeNews(void)
+/*static void CompactPokeNews(void)
 {
     u8 i;
     u8 j;
@@ -2582,7 +2582,7 @@ static void CompactPokeNews(void)
             }
         }
     }
-}
+}*/
 
 static u8 FindAnyPokeNewsOnTheAir(void)
 {
@@ -2712,7 +2712,7 @@ static void UpdatePokeNewsCountdown(u16 days)
             }
         }
     }
-    CompactPokeNews();
+    //CompactPokeNews();
 }
 
 void CopyContestRankToStringVar(u8 varIdx, u8 rank)
@@ -3914,7 +3914,7 @@ static void ClearInvalidPokeNews(void)
         if (gSaveBlock1Ptr->pokeNews[i].kind > POKENEWS_BLENDMASTER)
             ClearPokeNewsBySlot(i);
     }
-    CompactPokeNews();
+    //CompactPokeNews();
 }
 
 static void ClearPokeNewsIfGameNotComplete(void)

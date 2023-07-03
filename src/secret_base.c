@@ -1483,12 +1483,12 @@ static u8 TrySaveFriendsSecretBase(struct SecretBase *secretBase, u32 version, u
 // they won't be forgotten during record mixing.
 static void SortSecretBasesByRegistryStatus(void)
 {
-    u8 i;
-    u8 j;
+    //u8 i;
+    //u8 j;
     struct SecretBase *secretBases;
 
     secretBases = gSaveBlock1Ptr->secretBases;
-    for (i = 1; i < SECRET_BASES_COUNT - 1; i++)
+    /*for (i = 1; i < SECRET_BASES_COUNT - 1; i++)
     {
         for (j = i + 1; j < SECRET_BASES_COUNT; j++)
         {
@@ -1499,7 +1499,7 @@ static void SortSecretBasesByRegistryStatus(void)
                 SWAP(secretBases[i], secretBases[j], temp)
             }
         }
-    }
+    }*/
 }
 
 // Used to save a record mixing friends' bases other than their own
