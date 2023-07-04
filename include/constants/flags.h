@@ -42,7 +42,7 @@
 #define TEMP_FLAGS_END   FLAG_TEMP_1F
 
 #define FLAG_POKEMONPCMENU   0x20 // flag for the pc being accessible from the start menu
-#define FLAG_UNUSED_0x021    0x21 // Unused Flag
+#define FLAG_PARTY_MOVES     0x21 // flag for move relearner in party screen
 #define FLAG_UNUSED_0x022    0x22 // Unused Flag
 #define FLAG_UNUSED_0x023    0x23 // Unused Flag
 #define FLAG_UNUSED_0x024    0x24 // Unused Flag

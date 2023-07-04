@@ -3039,4 +3039,7 @@ extern const u8 gText_BoxName[];
 extern const u8 gText_PkmnsNickname[];
 extern const u8 gText_TellHimTheWords[];
 
+// Party Screen
+extern const u8 gText_Moves_Menu[];
+
 #endif // GUARD_STRINGS_H
