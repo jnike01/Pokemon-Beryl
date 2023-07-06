@@ -7726,10 +7726,10 @@ const struct Item gItems[] =
 
 // TMs/HMs. They don't have a set flingPower, as that's handled by GetFlingPowerFromItemId.
 
-    [ITEM_TM01_FOCUS_PUNCH] =
+    [ITEM_TM01_WORK_UP] =
     {
         .name = _("TM01"),
-        .itemId = ITEM_TM01_FOCUS_PUNCH,
+        .itemId = ITEM_TM01_WORK_UP,
         .price = 3000,
         .description = sTM01Desc,
         .importance = I_REUSABLE_TMS,
