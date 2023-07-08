@@ -3066,9 +3066,9 @@ static const u8 sTM08Desc[] = _(
     "Attack & Defense.");
 
 static const u8 sTM09Desc[] = _(
-    "Shoots 2 to 5 seeds\n"
-    "in a row to strike\n"
-    "the foe.");
+    "Double attack\n"
+    "power if target is\n"
+    "poisoned.");
 
 static const u8 sTM10Desc[] = _(
     "The attack power\n"
