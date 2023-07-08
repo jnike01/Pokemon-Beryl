@@ -7750,10 +7750,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM03_WATER_PULSE] =
+    [ITEM_TM03_PSYSHOCK] =
     {
         .name = _("TM03"),
-        .itemId = ITEM_TM03_WATER_PULSE,
+        .itemId = ITEM_TM03_PSYSHOCK,
         .price = 3000,
         .description = sTM03Desc,
         .importance = I_REUSABLE_TMS,
