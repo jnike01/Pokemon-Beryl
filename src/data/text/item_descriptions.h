@@ -3136,9 +3136,9 @@ static const u8 sTM22Desc[] = _(
     "attacks next turn.");
 
 static const u8 sTM23Desc[] = _(
-    "Slams the foe with\n"
-    "a hard tail. It may\n"
-    "lower Defense.");
+    "User lands and\n"
+    "rests. Restores HP\n"
+    "by up to half.");
 
 static const u8 sTM24Desc[] = _(
     "A powerful electric\n"

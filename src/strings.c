@@ -293,10 +293,10 @@ const u8 *const gPocketNamesStringsTable[] =
     [ITEMS_POCKET] = gText_ItemsPocket,
     [MEDICINE_POCKET] = gText_MedicinePocket,
     [BALLS_POCKET] = gText_PokeBallsPocket,
+    [TMHM_POCKET]  = gText_TMHMPocket,
     [BATTLEITEMS_POCKET] = gText_BattleItemsPocket,
     [BERRIES_POCKET] = gText_BerriesPocket,
     [TREASURES_POCKET] = gText_TreasuresPocket,
-    [TMHM_POCKET]  = gText_TMHMPocket,
     [KEYITEMS_POCKET] = gText_KeyItemsPocket
 };
 

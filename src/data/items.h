@@ -7990,10 +7990,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM23_IRON_TAIL] =
+    [ITEM_TM23_ROOST] =
     {
         .name = _("TM23"),
-        .itemId = ITEM_TM23_IRON_TAIL,
+        .itemId = ITEM_TM23_ROOST,
         .price = 3000,
         .description = sTM23Desc,
         .importance = I_REUSABLE_TMS,
