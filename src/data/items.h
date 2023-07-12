@@ -8050,10 +8050,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM28_DIG] =
+    [ITEM_TM28_LEECH_LIFE] =
     {
         .name = _("TM28"),
-        .itemId = ITEM_TM28_DIG,
+        .itemId = ITEM_TM28_LEECH_LIFE,
         .price = 2000,
         .description = sTM28Desc,
         .importance = I_REUSABLE_TMS,
