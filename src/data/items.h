@@ -8290,10 +8290,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM48_SKILL_SWAP] =
+    [ITEM_TM48_SLUDGE_WAVE] =
     {
         .name = _("TM48"),
-        .itemId = ITEM_TM48_SKILL_SWAP,
+        .itemId = ITEM_TM48_SLUDGE_WAVE,
         .price = 3000,
         .description = sTM48Desc,
         .importance = I_REUSABLE_TMS,

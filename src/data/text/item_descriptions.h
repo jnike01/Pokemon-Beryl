@@ -3261,9 +3261,9 @@ static const u8 sTM47Desc[] = _(
     "slams into the foe.");
 
 static const u8 sTM48Desc[] = _(
-    "Switches abilities\n"
-    "with the foe on the\n"
-    "turn this is used.");
+    "Swamps the area\n"
+    "with a sludge wave.\n"
+    "It may poison foe.");
 
 static const u8 sTM49Desc[] = _(
     "Steals the effects\n"
