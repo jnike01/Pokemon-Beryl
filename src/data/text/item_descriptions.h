@@ -3266,9 +3266,9 @@ static const u8 sTM48Desc[] = _(
     "It may poison foe.");
 
 static const u8 sTM49Desc[] = _(
-    "Steals the effects\n"
-    "of the move the foe\n"
-    "is trying to use.");
+    "An echoing voice\n"
+    "that is 2x power\n"
+    "after each use.");
 
 static const u8 sTM50Desc[] = _(
     "Enables full-power\n"
