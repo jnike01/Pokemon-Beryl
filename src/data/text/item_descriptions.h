@@ -3285,8 +3285,10 @@ static const u8 sTM52Desc[] = _(
     "in a blast. May \n"
     "lower foe's Sp. Def.");
 
-static const u8 sTM53Desc[] = _( // Todo
-    "?????");
+static const u8 sTM53Desc[] = _(
+    "Launches natural\n"
+    "power at foe. May\n"
+    "lower foe's Sp. Def.");
 
 static const u8 sTM54Desc[] = _( // Todo
     "?????");
