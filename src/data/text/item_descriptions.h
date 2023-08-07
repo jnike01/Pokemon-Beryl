@@ -3295,8 +3295,10 @@ static const u8 sTM54Desc[] = _(
     "that leaves foe\n"
     "with at least 1 HP.");
 
-static const u8 sTM55Desc[] = _( // Todo
-    "?????");
+static const u8 sTM55Desc[] = _(
+    "Shoots boiling\n"
+    "water at foe. May\n"
+    "burn foe.");
 
 static const u8 sTM56Desc[] = _( // Todo
     "?????");
