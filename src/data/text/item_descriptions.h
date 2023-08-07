@@ -3290,8 +3290,10 @@ static const u8 sTM53Desc[] = _(
     "power at foe. May\n"
     "lower foe's Sp. Def.");
 
-static const u8 sTM54Desc[] = _( // Todo
-    "?????");
+static const u8 sTM54Desc[] = _(
+    "A restrained attack\n"
+    "that leaves foe\n"
+    "with at least 1 HP.");
 
 static const u8 sTM55Desc[] = _( // Todo
     "?????");
