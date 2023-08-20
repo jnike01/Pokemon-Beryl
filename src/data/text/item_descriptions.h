@@ -3300,8 +3300,10 @@ static const u8 sTM55Desc[] = _(
     "water at foe. May\n"
     "burn foe.");
 
-static const u8 sTM56Desc[] = _( // Todo
-    "?????");
+static const u8 sTM56Desc[] = _(
+    "Three beams that\n"
+    "may burn, freeze or\n"
+    "paralyze foe.");
 
 static const u8 sTM57Desc[] = _( // Todo
     "?????");
