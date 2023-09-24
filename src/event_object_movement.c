@@ -7643,7 +7643,7 @@ static const MetatileFunc sDisallowedMetatiles[] = {
 };
 
 static bool8 IsShadowAllowedInId(struct ObjectEvent *objEvent) {
-    u8 i;
+    u32 i;
 
     for (i = 0; i < ARRAY_COUNT(sDisallowedIds); i++) {
         if (sDisallowedIds[i] == objEvent->graphicsId) 
@@ -7654,7 +7654,7 @@ static bool8 IsShadowAllowedInId(struct ObjectEvent *objEvent) {
 }
 
 static bool8 IsShadowAllowedInWeather() {
-    u8 i;
+    u32 i;
     bool8 currWeatherDisallowed = FALSE;
     bool8 nextWeatherDisallowed = FALSE;
 
@@ -7678,7 +7678,7 @@ static bool8 IsShadowAllowedInWeather() {
 }
 
 static bool8 IsShadowAllowedInMetatile(struct ObjectEvent *objEvent) {
-    u8 i;
+    u32 i;
 
     for (i = 0; i < ARRAY_COUNT(sDisallowedMetatiles); i++) {
         if (sDisallowedMetatiles[i](objEvent->currentMetatileBehavior)) 
