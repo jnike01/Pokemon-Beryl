@@ -3325,8 +3325,10 @@ static const u8 sTM60Desc[] = _(
     "foe. Double power\n"
     "if no item is held.");
 
-static const u8 sTM61Desc[] = _( // Todo
-    "?????");
+static const u8 sTM61Desc[] = _(
+    "User explodes and\n"
+    "deals huge damage.\n"
+    "User faints on use.");
 
 static const u8 sTM62Desc[] = _( // Todo
     "?????");

@@ -30907,6 +30907,7 @@ static const u16 sCarkolTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_SCALD,
     MOVE_WILL_O_WISP,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
@@ -30936,6 +30937,7 @@ static const u16 sCoalossalTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_SCALD,
     MOVE_WILL_O_WISP,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
@@ -32543,6 +32545,7 @@ static const u16 sGeodudeAlolanTeachableLearnset[] = {
     MOVE_TOXIC,
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
@@ -32561,6 +32564,7 @@ static const u16 sGravelerAlolanTeachableLearnset[] = {
     MOVE_TOXIC,
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
@@ -32582,6 +32586,7 @@ static const u16 sGolemAlolanTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
@@ -32599,6 +32604,7 @@ static const u16 sGrimerAlolanTeachableLearnset[] = {
     MOVE_VENOSHOCK,
     MOVE_SLUDGE_WAVE,
     MOVE_BRUTAL_SWING,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
@@ -32620,6 +32626,7 @@ static const u16 sMukAlolanTeachableLearnset[] = {
     MOVE_SLUDGE_WAVE,
     MOVE_FOCUS_BLAST,
     MOVE_BRUTAL_SWING,
+    MOVE_EXPLOSION,
     MOVE_UNAVAILABLE,
 };
 
