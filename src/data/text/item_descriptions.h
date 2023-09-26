@@ -3305,8 +3305,10 @@ static const u8 sTM56Desc[] = _(
     "may burn, freeze or\n"
     "paralyze foe.");
 
-static const u8 sTM57Desc[] = _( // Todo
-    "?????");
+static const u8 sTM57Desc[] = _(
+    "An electrical beam\n"
+    "that raises the\n"
+    "user's Sp. Atk stat.");
 
 static const u8 sTM58Desc[] = _( // Todo
     "?????");
