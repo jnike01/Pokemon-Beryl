@@ -10356,4 +10356,16 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
         .flingPower = 10,
     },
+
+    [ITEM_ABILITY_CHANGER] =
+    {
+        .name = _("Abili-Change"),
+        .itemId = ITEM_ABILITY_CHANGER,
+        .price = 0,
+        .holdEffectParam = 0,
+        .description = sAbilityChangerDesc,
+        .pocket = POCKET_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_AbilityChanger,
+    },
 };
