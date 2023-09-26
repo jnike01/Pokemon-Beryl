@@ -8440,10 +8440,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM60] =
+    [ITEM_TM60_ACROBATICS] =
     {
         .name = _("TM60"),
-        .itemId = ITEM_TM60,
+        .itemId = ITEM_TM60_ACROBATICS,
         .price = 3000,
         .description = sTM60Desc,
         .importance = I_REUSABLE_TMS,

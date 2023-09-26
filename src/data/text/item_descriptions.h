@@ -3320,8 +3320,10 @@ static const u8 sTM59Desc[] = _(
     "bluish-white flame\n"
     "at foe to burn it.");
 
-static const u8 sTM60Desc[] = _( // Todo
-    "?????");
+static const u8 sTM60Desc[] = _(
+    "User nimbly strikes\n"
+    "foe. Double power\n"
+    "if no item is held.");
 
 static const u8 sTM61Desc[] = _( // Todo
     "?????");
