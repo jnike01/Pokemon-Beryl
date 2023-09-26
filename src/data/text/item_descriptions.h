@@ -3310,8 +3310,10 @@ static const u8 sTM57Desc[] = _(
     "that raises the\n"
     "user's Sp. Atk stat.");
 
-static const u8 sTM58Desc[] = _( // Todo
-    "?????");
+static const u8 sTM58Desc[] = _(
+    "Swings the body\n"
+    "to damage all in\n"
+    "the vicinity.");
 
 static const u8 sTM59Desc[] = _( // Todo
     "?????");
