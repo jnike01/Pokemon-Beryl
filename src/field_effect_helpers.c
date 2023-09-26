@@ -247,7 +247,7 @@ u32 FldEff_Shadow(void)
         gSprites[spriteId].oam.objMode = ST_OAM_OBJ_BLEND;
     }
     SetGpuReg(REG_OFFSET_DISPCNT, 0x1F40);
-    SetGpuReg(REG_OFFSET_BLDALPHA, BLDALPHA_BLEND(0,14)); // Right value from 0 - 16, where 0 is full black and 16 is no shadow
+    SetGpuReg(REG_OFFSET_BLDALPHA, BLDALPHA_BLEND(0,10)); // Right value from 0 - 16, where 0 is full black and 16 is no shadow
     return 0;
 }
 
