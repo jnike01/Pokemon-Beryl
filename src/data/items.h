@@ -8428,10 +8428,10 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-    [ITEM_TM59] =
+    [ITEM_TM59_WILL_O_WISP] =
     {
         .name = _("TM59"),
-        .itemId = ITEM_TM59,
+        .itemId = ITEM_TM59_WILL_O_WISP,
         .price = 3000,
         .description = sTM59Desc,
         .importance = I_REUSABLE_TMS,

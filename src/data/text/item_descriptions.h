@@ -3315,8 +3315,10 @@ static const u8 sTM58Desc[] = _(
     "to damage all in\n"
     "the vicinity.");
 
-static const u8 sTM59Desc[] = _( // Todo
-    "?????");
+static const u8 sTM59Desc[] = _(
+    "Shoots a sinister\n"
+    "bluish-white flame\n"
+    "at foe to burn it.");
 
 static const u8 sTM60Desc[] = _( // Todo
     "?????");
