@@ -18748,7 +18748,7 @@ static const u16 sElectivireTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_LOW_SWEEP,
     MOVE_FOCUS_BLAST,
-    MOVE_CHARGE_BEAM
+    MOVE_CHARGE_BEAM,
     MOVE_UNAVAILABLE,
 };
 
