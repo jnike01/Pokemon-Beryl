@@ -3335,8 +3335,10 @@ static const u8 sTM62Desc[] = _(
     "shadowy claws. Crit\n"
     "chance heightened.");
 
-static const u8 sTM63Desc[] = _( // Todo
-    "?????");
+static const u8 sTM63Desc[] = _(
+    "Deals double damage\n"
+    "if the user moves\n"
+    "after the foe.");
 
 static const u8 sTM64Desc[] = _( // Todo
     "?????");
