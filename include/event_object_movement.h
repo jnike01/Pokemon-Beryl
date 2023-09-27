@@ -72,6 +72,8 @@ enum ReflectionTypes
 #define GROUND_EFFECT_FLAG_SEAWEED               (1 << 19)
 #define GROUND_EFFECT_SHADOW                     (1 << 20)
 
+#define BASE_SHADOW_INTENSITY                    14 // Ranges from 0 to 16, where 0 is black and 16 is transparent
+
 struct StepAnimTable
 {
     const union AnimCmd *const *anims;
