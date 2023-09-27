@@ -3330,8 +3330,10 @@ static const u8 sTM61Desc[] = _(
     "deals huge damage.\n"
     "User faints on use.");
 
-static const u8 sTM62Desc[] = _( // Todo
-    "?????");
+static const u8 sTM62Desc[] = _(
+    "Slashes foe with\n"
+    "shadowy claws. Crit\n"
+    "chance heightened.");
 
 static const u8 sTM63Desc[] = _( // Todo
     "?????");
