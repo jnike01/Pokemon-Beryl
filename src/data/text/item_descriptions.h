@@ -3340,8 +3340,10 @@ static const u8 sTM63Desc[] = _(
     "if the user moves\n"
     "after the foe.");
 
-static const u8 sTM64Desc[] = _( // Todo
-    "?????");
+static const u8 sTM64Desc[] = _(
+    "Stabs foe with a\n"
+    "sharp horn. Attack\n"
+    "never misses.");
 
 static const u8 sTM65Desc[] = _( // Todo
     "?????");
