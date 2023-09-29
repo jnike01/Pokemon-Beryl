@@ -66,7 +66,8 @@
     F(SHADOW_CLAW) \
     F(PAYBACK) \
     F(SMART_STRIKE) \
-    F(GIGA_IMPACT)
+    F(GIGA_IMPACT) \
+    F(ROCK_POLISH)
 
 #define FOREACH_HM(F) \
     F(CUT) \

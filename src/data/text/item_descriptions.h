@@ -3356,8 +3356,10 @@ static const u8 sTM65Desc[] = _(
     "everything. Cannot\n"
     "move next turn.");
 
-static const u8 sTM66Desc[] = _( // Todo
-    "?????");
+static const u8 sTM66Desc[] = _(
+    "User polishes its\n"
+    "body, increasing\n"
+    "speed stat sharply.");
 
 static const u8 sTM67Desc[] = _( // Todo
     "?????");
