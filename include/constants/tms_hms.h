@@ -69,7 +69,8 @@
     F(GIGA_IMPACT) \
     F(ROCK_POLISH) \
     F(AURORA_VEIL) \
-    F(STONE_EDGE)
+    F(STONE_EDGE) \
+    F(VOLT_SWITCH)
 
 #define FOREACH_HM(F) \
     F(CUT) \

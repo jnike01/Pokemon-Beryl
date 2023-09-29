@@ -3371,8 +3371,10 @@ static const u8 sTM68Desc[] = _(
     "foe. Critical hits\n"
     "land more often.");
 
-static const u8 sTM69Desc[] = _( // Todo
-    "?????");
+static const u8 sTM69Desc[] = _(
+    "Upon landing, user\n"
+    "switches out with\n"
+    "another Pokemon.");
 
 static const u8 sTM70Desc[] = _( // Todo
     "?????");

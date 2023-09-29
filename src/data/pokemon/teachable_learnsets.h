@@ -894,6 +894,7 @@ static const u16 sPikachuTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -943,6 +944,7 @@ static const u16 sRaichuTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -3393,6 +3395,7 @@ static const u16 sMagnemiteTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -3429,6 +3432,7 @@ static const u16 sMagnetonTeachableLearnset[] = {
     MOVE_TRI_ATTACK,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -4170,6 +4174,7 @@ static const u16 sVoltorbTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -4205,6 +4210,7 @@ static const u16 sElectrodeTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -5306,6 +5312,7 @@ static const u16 sElectabuzzTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -6087,6 +6094,7 @@ static const u16 sZapdosTeachableLearnset[] = {
     MOVE_ROOST,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -7146,6 +7154,7 @@ static const u16 sChinchouTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_SCALD,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -7183,6 +7192,7 @@ static const u16 sLanturnTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -7224,6 +7234,7 @@ static const u16 sPichuTeachableLearnset[] = {
     MOVE_WORK_UP,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -7587,6 +7598,7 @@ static const u16 sFlaaffyTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -7634,6 +7646,7 @@ static const u16 sAmpharosTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -8555,6 +8568,7 @@ static const u16 sForretressTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -10007,6 +10021,7 @@ static const u16 sElekidTeachableLearnset[] = {
     MOVE_THUNDER_PUNCH,
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -10216,6 +10231,7 @@ static const u16 sRaikouTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -12616,6 +12632,7 @@ static const u16 sNosepassTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_ROCK_POLISH,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -13107,6 +13124,7 @@ static const u16 sElectrikeTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -13145,6 +13163,7 @@ static const u16 sManectricTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -13186,6 +13205,7 @@ static const u16 sPlusleTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -13227,6 +13247,7 @@ static const u16 sMinunTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -17048,6 +17069,7 @@ static const u16 sShinxTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -17080,6 +17102,7 @@ static const u16 sLuxioTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -17114,6 +17137,7 @@ static const u16 sLuxrayTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -17506,6 +17530,7 @@ static const u16 sPachirisuTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -19256,6 +19281,7 @@ static const u16 sMagnezoneTeachableLearnset[] = {
     MOVE_TRI_ATTACK,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -19454,6 +19480,7 @@ static const u16 sElectivireTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -19881,6 +19908,7 @@ static const u16 sProbopassTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -20007,6 +20035,7 @@ static const u16 sRotomTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_WILL_O_WISP,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -21672,6 +21701,7 @@ static const u16 sBlitzleTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_FLAME_CHARGE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -21702,6 +21732,7 @@ static const u16 sZebstrikaTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -23852,6 +23883,7 @@ static const u16 sEmolgaTeachableLearnset[] = {
     MOVE_ROOST,
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24112,6 +24144,7 @@ static const u16 sJoltikTeachableLearnset[] = {
     MOVE_LEECH_LIFE,
     MOVE_ENERGY_BALL,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24145,6 +24178,7 @@ static const u16 sGalvantulaTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24235,6 +24269,7 @@ static const u16 sKlinkTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_ROCK_POLISH,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24259,6 +24294,7 @@ static const u16 sKlangTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_ROCK_POLISH,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24285,6 +24321,7 @@ static const u16 sKlinklangTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24318,6 +24355,7 @@ static const u16 sEelektrikTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -24358,6 +24396,7 @@ static const u16 sEelektrossTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -25585,6 +25624,7 @@ static const u16 sCobalionTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -25742,6 +25782,7 @@ static const u16 sThundurusTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -25833,6 +25874,7 @@ static const u16 sZekromTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -27609,6 +27651,7 @@ static const u16 sHelioptileTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_LOW_SWEEP,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -27647,6 +27690,7 @@ static const u16 sHelioliskTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -27904,6 +27948,7 @@ static const u16 sDedenneTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -29038,6 +29083,7 @@ static const u16 sGrubbinTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -29063,6 +29109,7 @@ static const u16 sCharjabugTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -29094,6 +29141,7 @@ static const u16 sVikavoltTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -30316,6 +30364,7 @@ static const u16 sTogedemaruTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -30633,6 +30682,7 @@ static const u16 sTapuKokoTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -30969,6 +31019,7 @@ static const u16 sXurkitreeTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -31131,6 +31182,7 @@ static const u16 sMagearnaTeachableLearnset[] = {
     MOVE_TRI_ATTACK,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -31315,6 +31367,7 @@ static const u16 sZeraoraTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -31980,6 +32033,7 @@ static const u16 sYamperTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -32003,6 +32057,7 @@ static const u16 sBoltundTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -32285,6 +32340,7 @@ static const u16 sToxtricityTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -32989,6 +33045,7 @@ static const u16 sMorpekoTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
     MOVE_PAYBACK,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -33457,6 +33514,7 @@ static const u16 sRegielekiTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -33635,6 +33693,7 @@ static const u16 sRaichuAlolanTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -33799,6 +33858,7 @@ static const u16 sGeodudeAlolanTeachableLearnset[] = {
     MOVE_EXPLOSION,
     MOVE_ROCK_POLISH,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -33820,6 +33880,7 @@ static const u16 sGravelerAlolanTeachableLearnset[] = {
     MOVE_EXPLOSION,
     MOVE_ROCK_POLISH,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -33845,6 +33906,7 @@ static const u16 sGolemAlolanTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
     MOVE_STONE_EDGE,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
@@ -35050,6 +35112,7 @@ static const u16 sToxtricityLowKeyTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_VOLT_SWITCH,
     MOVE_UNAVAILABLE,
 };
 
