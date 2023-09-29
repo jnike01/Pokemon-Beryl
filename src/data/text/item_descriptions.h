@@ -3361,8 +3361,10 @@ static const u8 sTM66Desc[] = _(
     "body, increasing\n"
     "speed stat sharply.");
 
-static const u8 sTM67Desc[] = _( // Todo
-    "?????");
+static const u8 sTM67Desc[] = _(
+    "For five turns in\n"
+    "hail, lowers physical\n"
+    "and special damage.");
 
 static const u8 sTM68Desc[] = _( // Todo
     "?????");

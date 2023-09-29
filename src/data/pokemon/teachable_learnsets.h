@@ -5240,6 +5240,7 @@ static const u16 sJynxTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -6024,6 +6025,7 @@ static const u16 sArticunoTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_ROOST,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -9434,6 +9436,7 @@ static const u16 sDelibirdTeachableLearnset[] = {
     MOVE_SWIFT,
     MOVE_ROOST,
     MOVE_BRUTAL_SWING,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -9924,6 +9927,7 @@ static const u16 sSmoochumTeachableLearnset[] = {
     MOVE_PSYSHOCK,
     MOVE_ECHOED_VOICE,
     MOVE_PAYBACK,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -15902,6 +15906,7 @@ static const u16 sRegiceTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -19047,6 +19052,7 @@ static const u16 sSnoverTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SWORDS_DANCE,
     MOVE_ENERGY_BALL,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -19089,6 +19095,7 @@ static const u16 sAbomasnowTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_ENERGY_BALL,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -19568,6 +19575,7 @@ static const u16 sGlaceonTeachableLearnset[] = {
     MOVE_WORK_UP,
     MOVE_ECHOED_VOICE,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -19883,6 +19891,7 @@ static const u16 sFroslassTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -23584,6 +23593,7 @@ static const u16 sVanilliteTeachableLearnset[] = {
     MOVE_SNORE,
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -23609,6 +23619,7 @@ static const u16 sVanillishTeachableLearnset[] = {
     MOVE_SNORE,
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -23636,6 +23647,7 @@ static const u16 sVanilluxeTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -24636,6 +24648,7 @@ static const u16 sCryogonalTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ACROBATICS,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -27599,6 +27612,7 @@ static const u16 sAmauraTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_CHARGE_BEAM,
     MOVE_ROCK_POLISH,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -27643,6 +27657,7 @@ static const u16 sAurorusTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -28082,6 +28097,7 @@ static const u16 sBergmiteTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -28118,6 +28134,7 @@ static const u16 sAvaluggTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -32706,6 +32723,7 @@ static const u16 sFrosmothTeachableLearnset[] = {
     MOVE_LEECH_LIFE,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -32751,6 +32769,7 @@ static const u16 sEiscueTeachableLearnset[] = {
     MOVE_SLEEP_TALK,
     MOVE_SNORE,
     MOVE_SUBSTITUTE,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -32967,6 +32986,7 @@ static const u16 sArctovishTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_ECHOED_VOICE,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -33455,6 +33475,7 @@ static const u16 sSandshrewAlolanTeachableLearnset[] = {
     MOVE_WORK_UP,
     MOVE_LEECH_LIFE,
     MOVE_SHADOW_CLAW,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -33475,6 +33496,7 @@ static const u16 sSandslashAlolanTeachableLearnset[] = {
     MOVE_LEECH_LIFE,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -33487,6 +33509,7 @@ static const u16 sVulpixAlolanTeachableLearnset[] = {
     MOVE_REST,
     MOVE_TOXIC,
     MOVE_PAYBACK,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 
@@ -33503,6 +33526,7 @@ static const u16 sNinetalesAlolanTeachableLearnset[] = {
     MOVE_PSYSHOCK,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_AURORA_VEIL,
     MOVE_UNAVAILABLE,
 };
 

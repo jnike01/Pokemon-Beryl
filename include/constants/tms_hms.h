@@ -67,7 +67,8 @@
     F(PAYBACK) \
     F(SMART_STRIKE) \
     F(GIGA_IMPACT) \
-    F(ROCK_POLISH)
+    F(ROCK_POLISH) \
+    F(AURORA_VEIL)
 
 #define FOREACH_HM(F) \
     F(CUT) \
