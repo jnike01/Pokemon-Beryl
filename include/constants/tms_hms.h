@@ -68,7 +68,8 @@
     F(SMART_STRIKE) \
     F(GIGA_IMPACT) \
     F(ROCK_POLISH) \
-    F(AURORA_VEIL)
+    F(AURORA_VEIL) \
+    F(STONE_EDGE)
 
 #define FOREACH_HM(F) \
     F(CUT) \

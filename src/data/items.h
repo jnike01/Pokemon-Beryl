@@ -7962,7 +7962,7 @@ const struct Item gItems[] =
         .secondaryId = MOVE_AURORA_VEIL,
     },
 
-    [ITEM_TM68] =
+    [ITEM_TM_STONE_EDGE] =
     {
         .name = _("TM68"),
         .price = 3000,
@@ -7971,7 +7971,7 @@ const struct Item gItems[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_NONE, // Todo
+        .secondaryId = MOVE_STONE_EDGE,
     },
 
     [ITEM_TM69] =

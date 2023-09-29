@@ -1036,6 +1036,7 @@ static const u16 sSandslashTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -1184,6 +1185,7 @@ static const u16 sNidoqueenTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -1332,6 +1334,7 @@ static const u16 sNidokingTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -2049,6 +2052,7 @@ static const u16 sDugtrioTeachableLearnset[] = {
     MOVE_TRI_ATTACK,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -2353,6 +2357,7 @@ static const u16 sPrimeapeTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -2858,6 +2863,7 @@ static const u16 sMachampTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -3080,6 +3086,7 @@ static const u16 sGeodudeTeachableLearnset[] = {
     MOVE_THUNDER_PUNCH,
     MOVE_BRUTAL_SWING,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -3124,6 +3131,7 @@ static const u16 sGravelerTeachableLearnset[] = {
     MOVE_THUNDER_PUNCH,
     MOVE_BRUTAL_SWING,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -3174,6 +3182,7 @@ static const u16 sGolemTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -3944,6 +3953,7 @@ static const u16 sOnixTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -4373,6 +4383,7 @@ static const u16 sMarowakTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -4415,6 +4426,7 @@ static const u16 sHitmonleeTeachableLearnset[] = {
     MOVE_WORK_UP,
     MOVE_LOW_SWEEP,
     MOVE_FOCUS_BLAST,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -4460,6 +4472,7 @@ static const u16 sHitmonchanTeachableLearnset[] = {
     MOVE_WORK_UP,
     MOVE_LOW_SWEEP,
     MOVE_FOCUS_BLAST,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -4645,6 +4658,7 @@ static const u16 sRhyhornTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_SMART_STRIKE,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -4706,6 +4720,7 @@ static const u16 sRhydonTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -5375,6 +5390,7 @@ static const u16 sPinsirTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -5419,6 +5435,7 @@ static const u16 sTaurosTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -5470,6 +5487,7 @@ static const u16 sGyaradosTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -5792,6 +5810,7 @@ static const u16 sOmastarTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -5883,6 +5902,7 @@ static const u16 sKabutopsTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -5929,6 +5949,7 @@ static const u16 sAerodactylTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -6252,6 +6273,7 @@ static const u16 sDragoniteTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -6327,6 +6349,7 @@ static const u16 sMewtwoTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -7783,6 +7806,7 @@ static const u16 sSudowoodoTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_THUNDER_PUNCH,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -8174,6 +8198,7 @@ static const u16 sQuagsireTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -8625,6 +8650,7 @@ static const u16 sGligarTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -8667,6 +8693,7 @@ static const u16 sSteelixTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -8784,6 +8811,7 @@ static const u16 sGranbullTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -8904,6 +8932,7 @@ static const u16 sShuckleTeachableLearnset[] = {
     MOVE_VENOSHOCK,
     MOVE_SLUDGE_WAVE,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -8949,6 +8978,7 @@ static const u16 sHeracrossTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -9112,6 +9142,7 @@ static const u16 sUrsaringTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -9190,6 +9221,7 @@ static const u16 sMagcargoTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -9266,6 +9298,7 @@ static const u16 sPiloswineTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -9312,6 +9345,7 @@ static const u16 sCorsolaTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SCALD,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -9707,6 +9741,7 @@ static const u16 sDonphanTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -9881,6 +9916,7 @@ static const u16 sHitmontopTeachableLearnset[] = {
     MOVE_WORK_UP,
     MOVE_LOW_SWEEP,
     MOVE_BRUTAL_SWING,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -10222,6 +10258,7 @@ static const u16 sEnteiTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -10299,6 +10336,7 @@ static const u16 sLarvitarTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -10334,6 +10372,7 @@ static const u16 sPupitarTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -10396,6 +10435,7 @@ static const u16 sTyranitarTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -10858,6 +10898,7 @@ static const u16 sBlazikenTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -10999,6 +11040,7 @@ static const u16 sSwampertTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -11962,6 +12004,7 @@ static const u16 sBreloomTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_FALSE_SWIPE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -12492,6 +12535,7 @@ static const u16 sHariyamaTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -12571,6 +12615,7 @@ static const u16 sNosepassTeachableLearnset[] = {
     MOVE_THUNDER_PUNCH,
     MOVE_THUNDER_WAVE,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -12773,6 +12818,7 @@ static const u16 sMawileTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -12851,6 +12897,7 @@ static const u16 sLaironTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SHADOW_CLAW,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -12917,6 +12964,7 @@ static const u16 sAggronTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -13639,6 +13687,7 @@ static const u16 sCameruptTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -13678,6 +13727,7 @@ static const u16 sTorkoalTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -13941,6 +13991,7 @@ static const u16 sFlygonTeachableLearnset[] = {
     MOVE_ROOST,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -14253,6 +14304,7 @@ static const u16 sLunatoneTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -14302,6 +14354,7 @@ static const u16 sSolrockTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -14373,6 +14426,7 @@ static const u16 sWhiscashTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -14552,6 +14606,7 @@ static const u16 sClaydolTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -14626,6 +14681,7 @@ static const u16 sCradilyTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -14700,6 +14756,7 @@ static const u16 sArmaldoTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -15199,6 +15256,7 @@ static const u16 sAbsolTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -15539,6 +15597,7 @@ static const u16 sRelicanthTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -15695,6 +15754,7 @@ static const u16 sSalamenceTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -15853,6 +15913,7 @@ static const u16 sRegirockTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -16192,6 +16253,7 @@ static const u16 sGroudonTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -16252,6 +16314,7 @@ static const u16 sRayquazaTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -16475,6 +16538,7 @@ static const u16 sTorterraTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -16614,6 +16678,7 @@ static const u16 sInfernapeTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -17158,6 +17223,7 @@ static const u16 sCranidosTeachableLearnset[] = {
     MOVE_THUNDER_PUNCH,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -17205,6 +17271,7 @@ static const u16 sRampardosTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -17246,6 +17313,7 @@ static const u16 sShieldonTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -17286,6 +17354,7 @@ static const u16 sBastiodonTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -17641,6 +17710,7 @@ static const u16 sGastrodonTeachableLearnset[] = {
     MOVE_SLUDGE_WAVE,
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -18439,6 +18509,7 @@ static const u16 sGibleTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SWIFT,
     MOVE_SHADOW_CLAW,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -18475,6 +18546,7 @@ static const u16 sGabiteTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SWIFT,
     MOVE_SHADOW_CLAW,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -18518,6 +18590,7 @@ static const u16 sGarchompTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -18653,6 +18726,7 @@ static const u16 sLucarioTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -18712,6 +18786,7 @@ static const u16 sHippowdonTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -18887,6 +18962,7 @@ static const u16 sToxicroakTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -19289,6 +19365,7 @@ static const u16 sRhyperiorTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -19623,6 +19700,7 @@ static const u16 sGliscorTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -19658,6 +19736,7 @@ static const u16 sMamoswineTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -19759,6 +19838,7 @@ static const u16 sGalladeTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -19800,6 +19880,7 @@ static const u16 sProbopassTeachableLearnset[] = {
     MOVE_TRI_ATTACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20121,6 +20202,7 @@ static const u16 sDialgaTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20173,6 +20255,7 @@ static const u16 sPalkiaTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20211,6 +20294,7 @@ static const u16 sHeatranTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20252,6 +20336,7 @@ static const u16 sRegigigasTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20303,6 +20388,7 @@ static const u16 sGiratinaTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20570,6 +20656,7 @@ static const u16 sArceusTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 #endif
@@ -20793,6 +20880,7 @@ static const u16 sPigniteTeachableLearnset[] = {
     MOVE_LOW_SWEEP,
     MOVE_FOCUS_BLAST,
     MOVE_WILL_O_WISP,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -20837,6 +20925,7 @@ static const u16 sEmboarTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -21639,6 +21728,7 @@ static const u16 sRoggenrolaTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -21665,6 +21755,7 @@ static const u16 sBoldoreTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -21694,6 +21785,7 @@ static const u16 sGigalithTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -21928,6 +22020,7 @@ static const u16 sTimburrTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -21963,6 +22056,7 @@ static const u16 sGurdurrTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22001,6 +22095,7 @@ static const u16 sConkeldurrTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22127,6 +22222,7 @@ static const u16 sThrohTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22164,6 +22260,7 @@ static const u16 sSawkTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22515,6 +22612,7 @@ static const u16 sSandileTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22550,6 +22648,7 @@ static const u16 sKrokorokTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22592,6 +22691,7 @@ static const u16 sKrookodileTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22671,6 +22771,7 @@ static const u16 sDarmanitanTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22726,6 +22827,7 @@ static const u16 sDwebbleTeachableLearnset[] = {
     MOVE_SWORDS_DANCE,
     MOVE_SHADOW_CLAW,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22758,6 +22860,7 @@ static const u16 sCrustleTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22796,6 +22899,7 @@ static const u16 sScraggyTeachableLearnset[] = {
     MOVE_LOW_SWEEP,
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22836,6 +22940,7 @@ static const u16 sScraftyTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -22974,6 +23079,7 @@ static const u16 sTirtougaTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_SCALD,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -23010,6 +23116,7 @@ static const u16 sCarracostaTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -23043,6 +23150,7 @@ static const u16 sArchenTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_SHADOW_CLAW,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -23080,6 +23188,7 @@ static const u16 sArcheopsTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -24620,6 +24729,7 @@ static const u16 sBearticTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -24738,6 +24848,7 @@ static const u16 sStunfiskTeachableLearnset[] = {
     MOVE_SLUDGE_WAVE,
     MOVE_SCALD,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -24776,6 +24887,7 @@ static const u16 sMienfooTeachableLearnset[] = {
     MOVE_FOCUS_BLAST,
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -24816,6 +24928,7 @@ static const u16 sMienshaoTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -24948,6 +25061,7 @@ static const u16 sGolurkTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25021,6 +25135,7 @@ static const u16 sBisharpTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25055,6 +25170,7 @@ static const u16 sBouffalantTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25254,6 +25370,7 @@ static const u16 sDurantTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25363,6 +25480,7 @@ static const u16 sHydreigonTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25466,6 +25584,7 @@ static const u16 sCobalionTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25504,6 +25623,7 @@ static const u16 sTerrakionTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25543,6 +25663,7 @@ static const u16 sVirizionTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25665,6 +25786,7 @@ static const u16 sReshiramTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25710,6 +25832,7 @@ static const u16 sZekromTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25748,6 +25871,7 @@ static const u16 sLandorusTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25791,6 +25915,7 @@ static const u16 sKyuremTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25829,6 +25954,7 @@ static const u16 sKeldeoTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25877,6 +26003,7 @@ static const u16 sMeloettaTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -25964,6 +26091,7 @@ static const u16 sChespinTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -26006,6 +26134,7 @@ static const u16 sQuilladinTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -26053,6 +26182,7 @@ static const u16 sChesnaughtTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -26316,6 +26446,7 @@ static const u16 sBunnelbyTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_WORK_UP,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -26356,6 +26487,7 @@ static const u16 sDiggersbyTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -26762,6 +26894,7 @@ static const u16 sPanchamTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -26811,6 +26944,7 @@ static const u16 sPangoroTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27260,6 +27394,7 @@ static const u16 sBinacleTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27311,6 +27446,7 @@ static const u16 sBarbaracleTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27540,6 +27676,7 @@ static const u16 sTyruntTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27572,6 +27709,7 @@ static const u16 sTyrantrumTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27613,6 +27751,7 @@ static const u16 sAmauraTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_ROCK_POLISH,
     MOVE_AURORA_VEIL,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27658,6 +27797,7 @@ static const u16 sAurorusTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
     MOVE_AURORA_VEIL,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27733,6 +27873,7 @@ static const u16 sHawluchaTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -27793,6 +27934,7 @@ static const u16 sCarbinkTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -28098,6 +28240,7 @@ static const u16 sBergmiteTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_ROCK_POLISH,
     MOVE_AURORA_VEIL,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -28135,6 +28278,7 @@ static const u16 sAvaluggTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
     MOVE_AURORA_VEIL,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -28312,6 +28456,7 @@ static const u16 sZygardeTeachableLearnset[] = {
     MOVE_SLUDGE_WAVE,
     MOVE_FOCUS_BLAST,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -28345,6 +28490,7 @@ static const u16 sDiancieTeachableLearnset[] = {
     MOVE_PSYSHOCK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -28427,6 +28573,7 @@ static const u16 sVolcanionTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 #endif
@@ -28981,6 +29128,7 @@ static const u16 sCrabrawlerTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -29020,6 +29168,7 @@ static const u16 sCrabominableTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -29135,6 +29284,7 @@ static const u16 sRockruffTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_ECHOED_VOICE,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -29163,6 +29313,7 @@ static const u16 sLycanrocTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -29896,6 +30047,7 @@ static const u16 sSandygastTeachableLearnset[] = {
     MOVE_SWAGGER,
     MOVE_ENERGY_BALL,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -29924,6 +30076,7 @@ static const u16 sPalossandTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30059,6 +30212,7 @@ static const u16 sMiniorTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30132,6 +30286,7 @@ static const u16 sTurtonatorTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30553,6 +30708,7 @@ static const u16 sTapuBuluTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30636,6 +30792,7 @@ static const u16 sSolgaleoTeachableLearnset[] = {
     MOVE_FLAME_CHARGE,
     MOVE_FOCUS_BLAST,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30748,6 +30905,7 @@ static const u16 sBuzzwoleTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30844,6 +31002,7 @@ static const u16 sCelesteelaTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30900,6 +31059,7 @@ static const u16 sGuzzlordTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -30938,6 +31098,7 @@ static const u16 sNecrozmaTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -31008,6 +31169,7 @@ static const u16 sMarshadowTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -31084,6 +31246,7 @@ static const u16 sStakatakaTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -31795,6 +31958,7 @@ static const u16 sDrednawTeachableLearnset[] = {
     MOVE_SMART_STRIKE,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -31859,6 +32023,7 @@ static const u16 sRolycolyTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_WILL_O_WISP,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -31883,6 +32048,7 @@ static const u16 sCarkolTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_EXPLOSION,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -31915,6 +32081,7 @@ static const u16 sCoalossalTeachableLearnset[] = {
     MOVE_EXPLOSION,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32003,6 +32170,7 @@ static const u16 sSandacondaTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32508,6 +32676,7 @@ static const u16 sCursolaTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32604,6 +32773,7 @@ static const u16 sRunerigusTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32747,6 +32917,7 @@ static const u16 sStonjournerTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32870,6 +33041,7 @@ static const u16 sCopperajahTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32903,6 +33075,7 @@ static const u16 sDracozoltTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32935,6 +33108,7 @@ static const u16 sArctozoltTeachableLearnset[] = {
     MOVE_CHARGE_BEAM,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32961,6 +33135,7 @@ static const u16 sDracovishTeachableLearnset[] = {
     MOVE_SCALD,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -32987,6 +33162,7 @@ static const u16 sArctovishTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_GIGA_IMPACT,
     MOVE_AURORA_VEIL,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33015,6 +33191,7 @@ static const u16 sDuraludonTeachableLearnset[] = {
     MOVE_THUNDER_WAVE,
     MOVE_CHARGE_BEAM,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33223,6 +33400,7 @@ static const u16 sUrshifuTeachableLearnset[] = {
     MOVE_ACROBATICS,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33561,6 +33739,7 @@ static const u16 sDugtrioAlolanTeachableLearnset[] = {
     MOVE_TRI_ATTACK,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33619,6 +33798,7 @@ static const u16 sGeodudeAlolanTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_EXPLOSION,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33639,6 +33819,7 @@ static const u16 sGravelerAlolanTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_EXPLOSION,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33663,6 +33844,7 @@ static const u16 sGolemAlolanTeachableLearnset[] = {
     MOVE_EXPLOSION,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33683,6 +33865,7 @@ static const u16 sGrimerAlolanTeachableLearnset[] = {
     MOVE_EXPLOSION,
     MOVE_PAYBACK,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33708,6 +33891,7 @@ static const u16 sMukAlolanTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_ROCK_POLISH,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33758,6 +33942,7 @@ static const u16 sMarowakAlolanTeachableLearnset[] = {
     MOVE_BRUTAL_SWING,
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34162,6 +34347,7 @@ static const u16 sCorsolaGalarianTeachableLearnset[] = {
     MOVE_SUBSTITUTE,
     MOVE_SCALD,
     MOVE_WILL_O_WISP,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34298,6 +34484,7 @@ static const u16 sDarmanitanGalarianTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34349,6 +34536,7 @@ static const u16 sStunfiskGalarianTeachableLearnset[] = {
     MOVE_SLUDGE_WAVE,
     MOVE_SCALD,
     MOVE_PAYBACK,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 #endif
@@ -34666,6 +34854,7 @@ static const u16 sGiratinaOriginTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34923,6 +35112,7 @@ static const u16 sUrshifuRapidStrikeStyleTeachableLearnset[] = {
     MOVE_FALSE_SWIPE,
     MOVE_ACROBATICS,
     MOVE_GIGA_IMPACT,
+    MOVE_STONE_EDGE,
     MOVE_UNAVAILABLE,
 };
 

@@ -3366,8 +3366,10 @@ static const u8 sTM67Desc[] = _(
     "hail, lowers physical\n"
     "and special damage.");
 
-static const u8 sTM68Desc[] = _( // Todo
-    "?????");
+static const u8 sTM68Desc[] = _(
+    "Sharp stones stab\n"
+    "foe. Critical hits\n"
+    "land more often.");
 
 static const u8 sTM69Desc[] = _( // Todo
     "?????");
