@@ -3381,8 +3381,10 @@ static const u8 sTM70Desc[] = _(
     "jolt of electricity\n"
     "that paralyzes foe.");
 
-static const u8 sTM71Desc[] = _( // Todo
-    "?????");
+static const u8 sTM71Desc[] = _(
+    "Tackles with a high\n"
+    "speed. Deals more\n"
+    "to faster targets.");
 
 static const u8 sTM72Desc[] = _( // Todo
     "?????");

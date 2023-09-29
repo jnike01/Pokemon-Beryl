@@ -71,7 +71,8 @@
     F(AURORA_VEIL) \
     F(STONE_EDGE) \
     F(VOLT_SWITCH) \
-    F(THUNDER_WAVE)
+    F(THUNDER_WAVE) \
+    F(GYRO_BALL)
 
 #define FOREACH_HM(F) \
     F(CUT) \
