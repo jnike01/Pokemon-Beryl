@@ -3376,8 +3376,10 @@ static const u8 sTM69Desc[] = _(
     "switches out with\n"
     "another Pokemon.");
 
-static const u8 sTM70Desc[] = _( // Todo
-    "?????");
+static const u8 sTM70Desc[] = _(
+    "Launches a weak\n"
+    "jolt of electricity\n"
+    "that paralyzes foe.");
 
 static const u8 sTM71Desc[] = _( // Todo
     "?????");

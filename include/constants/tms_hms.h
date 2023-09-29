@@ -70,7 +70,8 @@
     F(ROCK_POLISH) \
     F(AURORA_VEIL) \
     F(STONE_EDGE) \
-    F(VOLT_SWITCH)
+    F(VOLT_SWITCH) \
+    F(THUNDER_WAVE)
 
 #define FOREACH_HM(F) \
     F(CUT) \

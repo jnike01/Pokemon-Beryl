@@ -7986,7 +7986,7 @@ const struct Item gItems[] =
         .secondaryId = MOVE_VOLT_SWITCH,
     },
 
-    [ITEM_TM70] =
+    [ITEM_TM_THUNDER_WAVE] =
     {
         .name = _("TM70"),
         .price = 3000,
@@ -7995,7 +7995,7 @@ const struct Item gItems[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_NONE, // Todo
+        .secondaryId = MOVE_THUNDER_WAVE,
     },
 
     [ITEM_TM71] =
