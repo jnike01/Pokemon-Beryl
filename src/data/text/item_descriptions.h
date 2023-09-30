@@ -3396,8 +3396,10 @@ static const u8 sTM73Desc[] = _(
     "around it, lowering\n"
     "foe's speed stat.");
 
-static const u8 sTM74Desc[] = _( // Todo
-    "?????");
+static const u8 sTM74Desc[] = _(
+    "User blows its cold\n"
+    "breath on foe that\n"
+    "is always a critical.");
 
 static const u8 sTM75Desc[] = _( // Todo
     "?????");

@@ -74,7 +74,8 @@
     F(THUNDER_WAVE) \
     F(GYRO_BALL) \
     F(SWORDS_DANCE) \
-    F(BULLDOZE)
+    F(BULLDOZE) \
+    F(FROST_BREATH)
 
 #define FOREACH_HM(F) \
     F(CUT) \
