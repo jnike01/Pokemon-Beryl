@@ -3421,8 +3421,10 @@ static const u8 sTM78Desc[] = _(
     "attacked for four\n"
     "to five turns.");
 
-static const u8 sTM79Desc[] = _( // Todo
-    "?????");
+static const u8 sTM79Desc[] = _(
+    "Stabs a foe with a\n"
+    "poisoned limb that\n"
+    "may inflict poison.");
 
 static const u8 sTM80Desc[] = _( // Todo
     "?????");

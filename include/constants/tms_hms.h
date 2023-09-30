@@ -79,7 +79,8 @@
     F(ROCK_SLIDE) \
     F(X_SCISSOR) \
     F(DRAGON_TAIL) \
-    F(INFESTATION)
+    F(INFESTATION) \
+    F(POISON_JAB)
 
 #define FOREACH_HM(F) \
     F(CUT) \
