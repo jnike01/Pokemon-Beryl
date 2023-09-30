@@ -80,7 +80,8 @@
     F(X_SCISSOR) \
     F(DRAGON_TAIL) \
     F(INFESTATION) \
-    F(POISON_JAB)
+    F(POISON_JAB) \
+    F(GRASS_KNOT)
 
 #define FOREACH_HM(F) \
     F(CUT) \

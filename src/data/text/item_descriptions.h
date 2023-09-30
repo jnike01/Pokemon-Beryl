@@ -3426,8 +3426,10 @@ static const u8 sTM79Desc[] = _(
     "poisoned limb that\n"
     "may inflict poison.");
 
-static const u8 sTM80Desc[] = _( // Todo
-    "?????");
+static const u8 sTM80Desc[] = _(
+    "The heavier the\n"
+    "foe, the higher\n"
+    "damage inflicted.");
 
 static const u8 sTM81Desc[] = _( // Todo
     "?????");
