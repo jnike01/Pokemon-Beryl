@@ -77,7 +77,8 @@
     F(BULLDOZE) \
     F(FROST_BREATH) \
     F(ROCK_SLIDE) \
-    F(X_SCISSOR)
+    F(X_SCISSOR) \
+    F(DRAGON_TAIL)
 
 #define FOREACH_HM(F) \
     F(CUT) \

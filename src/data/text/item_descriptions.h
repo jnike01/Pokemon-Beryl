@@ -3411,8 +3411,10 @@ static const u8 sTM76Desc[] = _(
     "crossing its claws\n"
     "like scissors.");
 
-static const u8 sTM77Desc[] = _( // Todo
-    "?????");
+static const u8 sTM77Desc[] = _(
+    "Foe is knocked away\n"
+    "and switched with\n"
+    "another Pokemon.");
 
 static const u8 sTM78Desc[] = _( // Todo
     "?????");
