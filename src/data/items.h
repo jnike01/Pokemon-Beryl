@@ -8010,7 +8010,7 @@ const struct Item gItems[] =
         .secondaryId = MOVE_GYRO_BALL,
     },
 
-    [ITEM_TM72] =
+    [ITEM_TM_SWORDS_DANCE] =
     {
         .name = _("TM72"),
         .price = 3000,
@@ -8019,7 +8019,7 @@ const struct Item gItems[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_NONE, // Todo
+        .secondaryId = MOVE_SWORDS_DANCE,
     },
 
     [ITEM_TM73] =

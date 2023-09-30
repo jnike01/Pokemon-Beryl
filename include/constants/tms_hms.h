@@ -72,7 +72,8 @@
     F(STONE_EDGE) \
     F(VOLT_SWITCH) \
     F(THUNDER_WAVE) \
-    F(GYRO_BALL)
+    F(GYRO_BALL) \
+    F(SWORDS_DANCE)
 
 #define FOREACH_HM(F) \
     F(CUT) \

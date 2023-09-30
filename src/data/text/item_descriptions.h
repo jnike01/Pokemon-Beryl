@@ -3386,8 +3386,10 @@ static const u8 sTM71Desc[] = _(
     "speed. Deals more\n"
     "to faster targets.");
 
-static const u8 sTM72Desc[] = _( // Todo
-    "?????");
+static const u8 sTM72Desc[] = _(
+    "A frenetic dance\n"
+    "that sharply raises\n"
+    "user's attack stat.");
 
 static const u8 sTM73Desc[] = _( // Todo
     "?????");

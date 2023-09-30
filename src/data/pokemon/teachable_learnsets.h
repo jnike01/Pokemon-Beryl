@@ -33771,6 +33771,7 @@ static const u16 sRaticateAlolanTeachableLearnset[] = {
     MOVE_SLUDGE_WAVE,
     MOVE_SHADOW_CLAW,
     MOVE_GIGA_IMPACT,
+    MOVE_SWORDS_DANCE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33816,6 +33817,7 @@ static const u16 sSandshrewAlolanTeachableLearnset[] = {
     MOVE_SHADOW_CLAW,
     MOVE_AURORA_VEIL,
     MOVE_GYRO_BALL,
+    MOVE_SWORDS_DANCE,
     MOVE_UNAVAILABLE,
 };
 
@@ -33838,6 +33840,7 @@ static const u16 sSandslashAlolanTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_AURORA_VEIL,
     MOVE_GYRO_BALL,
+    MOVE_SWORDS_DANCE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34084,6 +34087,7 @@ static const u16 sExeggutorAlolanTeachableLearnset[] = {
     MOVE_ENERGY_BALL,
     MOVE_BRUTAL_SWING,
     MOVE_GIGA_IMPACT,
+    MOVE_SWORDS_DANCE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34112,6 +34116,7 @@ static const u16 sMarowakAlolanTeachableLearnset[] = {
     MOVE_WILL_O_WISP,
     MOVE_GIGA_IMPACT,
     MOVE_STONE_EDGE,
+    MOVE_SWORDS_DANCE,
     MOVE_UNAVAILABLE,
 };
 
@@ -34291,6 +34296,7 @@ static const u16 sFarfetchdGalarianTeachableLearnset[] = {
     MOVE_ROOST,
     MOVE_BRUTAL_SWING,
     MOVE_ACROBATICS,
+    MOVE_SWORDS_DANCE,
     MOVE_UNAVAILABLE,
 };
 
