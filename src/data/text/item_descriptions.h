@@ -3431,8 +3431,10 @@ static const u8 sTM80Desc[] = _(
     "foe, the higher\n"
     "damage inflicted.");
 
-static const u8 sTM81Desc[] = _( // Todo
-    "?????");
+static const u8 sTM81Desc[] = _(
+    "When asleep, user\n"
+    "randomly uses one\n"
+    "of its known moves.");
 
 static const u8 sTM82Desc[] = _( // Todo
     "?????");

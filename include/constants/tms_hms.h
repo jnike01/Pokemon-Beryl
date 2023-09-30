@@ -81,7 +81,8 @@
     F(DRAGON_TAIL) \
     F(INFESTATION) \
     F(POISON_JAB) \
-    F(GRASS_KNOT)
+    F(GRASS_KNOT) \
+    F(SLEEP_TALK)
 
 #define FOREACH_HM(F) \
     F(CUT) \
