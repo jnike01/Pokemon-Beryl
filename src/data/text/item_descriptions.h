@@ -3416,8 +3416,10 @@ static const u8 sTM77Desc[] = _(
     "and switched with\n"
     "another Pokemon.");
 
-static const u8 sTM78Desc[] = _( // Todo
-    "?????");
+static const u8 sTM78Desc[] = _(
+    "Foe is infested and\n"
+    "attacked for four\n"
+    "to five turns.");
 
 static const u8 sTM79Desc[] = _( // Todo
     "?????");

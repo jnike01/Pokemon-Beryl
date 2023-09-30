@@ -78,7 +78,8 @@
     F(FROST_BREATH) \
     F(ROCK_SLIDE) \
     F(X_SCISSOR) \
-    F(DRAGON_TAIL)
+    F(DRAGON_TAIL) \
+    F(INFESTATION)
 
 #define FOREACH_HM(F) \
     F(CUT) \
