@@ -73,7 +73,8 @@
     F(VOLT_SWITCH) \
     F(THUNDER_WAVE) \
     F(GYRO_BALL) \
-    F(SWORDS_DANCE)
+    F(SWORDS_DANCE) \
+    F(BULLDOZE)
 
 #define FOREACH_HM(F) \
     F(CUT) \
