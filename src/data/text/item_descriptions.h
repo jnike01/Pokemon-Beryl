@@ -3401,8 +3401,10 @@ static const u8 sTM74Desc[] = _(
     "breath on foe that\n"
     "is always a critical.");
 
-static const u8 sTM75Desc[] = _( // Todo
-    "?????");
+static const u8 sTM75Desc[] = _(
+    "Large boulders\n"
+    "hurled at foe that\n"
+    "can cause a flinch.");
 
 static const u8 sTM76Desc[] = _( // Todo
     "?????");

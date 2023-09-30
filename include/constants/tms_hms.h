@@ -75,7 +75,8 @@
     F(GYRO_BALL) \
     F(SWORDS_DANCE) \
     F(BULLDOZE) \
-    F(FROST_BREATH)
+    F(FROST_BREATH) \
+    F(ROCK_SLIDE)
 
 #define FOREACH_HM(F) \
     F(CUT) \
