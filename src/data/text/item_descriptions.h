@@ -3406,8 +3406,10 @@ static const u8 sTM75Desc[] = _(
     "hurled at foe that\n"
     "can cause a flinch.");
 
-static const u8 sTM76Desc[] = _( // Todo
-    "?????");
+static const u8 sTM76Desc[] = _(
+    "User slashes foe by\n"
+    "crossing its claws\n"
+    "like scissors.");
 
 static const u8 sTM77Desc[] = _( // Todo
     "?????");
