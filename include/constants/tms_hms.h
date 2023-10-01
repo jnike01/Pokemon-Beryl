@@ -85,7 +85,8 @@
     F(SLEEP_TALK) \
     F(U_TURN) \
     F(SUBSTITUTE) \
-    F(FLASH_CANNON)
+    F(FLASH_CANNON) \
+    F(TRICK_ROOM)
 
 #define FOREACH_HM(F) \
     F(CUT) \

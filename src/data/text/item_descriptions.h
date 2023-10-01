@@ -3451,8 +3451,10 @@ static const u8 sTM84Desc[] = _(
     "light energy. May\n"
     "drop foe's Sp. Def.");
 
-static const u8 sTM85Desc[] = _( // Todo
-    "?????");
+static const u8 sTM85Desc[] = _(
+    "Creates a bizzare\n"
+    "area where slower\n"
+    "Pokemon move first.");
 
 static const u8 sTM86Desc[] = _( // Todo
     "?????");
