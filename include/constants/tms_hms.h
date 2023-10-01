@@ -87,7 +87,8 @@
     F(SUBSTITUTE) \
     F(FLASH_CANNON) \
     F(TRICK_ROOM) \
-    F(WILD_CHARGE)
+    F(WILD_CHARGE) \
+    F(SNARL)
 
 #define FOREACH_HM(F) \
     F(CUT) \

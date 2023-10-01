@@ -8190,7 +8190,7 @@ const struct Item gItems[] =
         .secondaryId = MOVE_WILD_CHARGE,
     },
 
-    [ITEM_TM87] =
+    [ITEM_TM_SNARL] =
     {
         .name = _("TM87"),
         .price = 3000,
@@ -8199,7 +8199,7 @@ const struct Item gItems[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_NONE, // Todo
+        .secondaryId = MOVE_SNARL,
     },
 
     [ITEM_TM88] =

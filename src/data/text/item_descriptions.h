@@ -3461,8 +3461,10 @@ static const u8 sTM86Desc[] = _(
     "attack that also\n"
     "hurts the user.");
 
-static const u8 sTM87Desc[] = _( // Todo
-    "?????");
+static const u8 sTM87Desc[] = _(
+    "User yells in a\n"
+    "rant. Foe's Sp. Atk\n"
+    "stat is lowered.");
 
 static const u8 sTM88Desc[] = _( // Todo
     "?????");
