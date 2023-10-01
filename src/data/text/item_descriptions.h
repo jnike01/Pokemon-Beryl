@@ -3446,8 +3446,10 @@ static const u8 sTM83Desc[] = _(
     "create a decoy\n"
     "of the user.");
 
-static const u8 sTM84Desc[] = _( // Todo
-    "?????");
+static const u8 sTM84Desc[] = _(
+    "Releases user's\n"
+    "light energy. May\n"
+    "drop foe's Sp. Def.");
 
 static const u8 sTM85Desc[] = _( // Todo
     "?????");

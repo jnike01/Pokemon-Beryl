@@ -84,7 +84,8 @@
     F(GRASS_KNOT) \
     F(SLEEP_TALK) \
     F(U_TURN) \
-    F(SUBSTITUTE)
+    F(SUBSTITUTE) \
+    F(FLASH_CANNON)
 
 #define FOREACH_HM(F) \
     F(CUT) \
