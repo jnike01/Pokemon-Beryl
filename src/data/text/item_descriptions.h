@@ -3441,8 +3441,10 @@ static const u8 sTM82Desc[] = _(
     "switches out with\n"
     "another Pokemon.");
 
-static const u8 sTM83Desc[] = _( // Todo
-    "?????");
+static const u8 sTM83Desc[] = _(
+    "Sacrifices HP to\n"
+    "create a decoy\n"
+    "of the user.");
 
 static const u8 sTM84Desc[] = _( // Todo
     "?????");
