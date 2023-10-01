@@ -3476,8 +3476,10 @@ static const u8 sTM89Desc[] = _(
     "dangerous flash,\n"
     "damaging foes.");
 
-static const u8 sTM90Desc[] = _( // Todo
-    "?????");
+static const u8 sTM90Desc[] = _(
+    "User exhales hot\n"
+    "breath that may\n"
+    "cause foe a burn.");
 
 static const u8 sTM91Desc[] = _( // Todo
     "?????");

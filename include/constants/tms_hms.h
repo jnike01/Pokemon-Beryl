@@ -90,7 +90,8 @@
     F(WILD_CHARGE) \
     F(SNARL) \
     F(DARK_PULSE) \
-    F(DAZZLING_GLEAM)
+    F(DAZZLING_GLEAM) \
+    F(HEAT_WAVE)
 
 #define FOREACH_HM(F) \
     F(CUT) \
