@@ -3471,8 +3471,10 @@ static const u8 sTM88Desc[] = _(
     "pulse of darkness.\n"
     "Foe may flinch.");
 
-static const u8 sTM89Desc[] = _( // Todo
-    "?????");
+static const u8 sTM89Desc[] = _(
+    "User emits a\n"
+    "dangerous flash,\n"
+    "damaging foes.");
 
 static const u8 sTM90Desc[] = _( // Todo
     "?????");

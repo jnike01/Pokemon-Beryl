@@ -89,7 +89,8 @@
     F(TRICK_ROOM) \
     F(WILD_CHARGE) \
     F(SNARL) \
-    F(DARK_PULSE)
+    F(DARK_PULSE) \
+    F(DAZZLING_GLEAM)
 
 #define FOREACH_HM(F) \
     F(CUT) \
