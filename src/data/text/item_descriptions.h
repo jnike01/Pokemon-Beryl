@@ -3466,8 +3466,10 @@ static const u8 sTM87Desc[] = _(
     "rant. Foe's Sp. Atk\n"
     "stat is lowered.");
 
-static const u8 sTM88Desc[] = _( // Todo
-    "?????");
+static const u8 sTM88Desc[] = _(
+    "User releases a\n"
+    "pulse of darkness.\n"
+    "Foe may flinch.");
 
 static const u8 sTM89Desc[] = _( // Todo
     "?????");
