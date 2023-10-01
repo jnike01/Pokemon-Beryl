@@ -82,7 +82,8 @@
     F(INFESTATION) \
     F(POISON_JAB) \
     F(GRASS_KNOT) \
-    F(SLEEP_TALK)
+    F(SLEEP_TALK) \
+    F(U_TURN)
 
 #define FOREACH_HM(F) \
     F(CUT) \

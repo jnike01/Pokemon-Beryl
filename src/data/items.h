@@ -8130,7 +8130,7 @@ const struct Item gItems[] =
         .secondaryId = MOVE_SLEEP_TALK,
     },
 
-    [ITEM_TM82] =
+    [ITEM_TM_U_TURN] =
     {
         .name = _("TM82"),
         .price = 3000,
@@ -8139,7 +8139,7 @@ const struct Item gItems[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_NONE, // Todo
+        .secondaryId = MOVE_U_TURN,
     },
 
     [ITEM_TM83] =

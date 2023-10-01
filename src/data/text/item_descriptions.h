@@ -3436,8 +3436,10 @@ static const u8 sTM81Desc[] = _(
     "randomly uses one\n"
     "of its known moves.");
 
-static const u8 sTM82Desc[] = _( // Todo
-    "?????");
+static const u8 sTM82Desc[] = _(
+    "Upon landing, user\n"
+    "switches out with\n"
+    "another Pokemon.");
 
 static const u8 sTM83Desc[] = _( // Todo
     "?????");
