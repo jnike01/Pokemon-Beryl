@@ -3456,8 +3456,10 @@ static const u8 sTM85Desc[] = _(
     "area where slower\n"
     "Pokemon move first.");
 
-static const u8 sTM86Desc[] = _( // Todo
-    "?????");
+static const u8 sTM86Desc[] = _(
+    "An electric charge\n"
+    "attack that also\n"
+    "hurts the user.");
 
 static const u8 sTM87Desc[] = _( // Todo
     "?????");

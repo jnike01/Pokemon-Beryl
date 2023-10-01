@@ -86,7 +86,8 @@
     F(U_TURN) \
     F(SUBSTITUTE) \
     F(FLASH_CANNON) \
-    F(TRICK_ROOM)
+    F(TRICK_ROOM) \
+    F(WILD_CHARGE)
 
 #define FOREACH_HM(F) \
     F(CUT) \
