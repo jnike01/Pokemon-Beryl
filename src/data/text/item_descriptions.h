@@ -3491,8 +3491,10 @@ static const u8 sTM92Desc[] = _(
     "that raises Attack\n"
     "and Speed stats.");
 
-static const u8 sTM93Desc[] = _( // Todo
-    "?????");
+static const u8 sTM93Desc[] = _(
+    "Slams foe with a\n"
+    "steel-hard head.\n"
+    "Can flinch foe.");
 
 static const u8 sTM94Desc[] = _( // Todo
     "?????");

@@ -93,7 +93,8 @@
     F(DAZZLING_GLEAM) \
     F(HEAT_WAVE) \
     F(STEALTH_ROCK) \
-    F(DRAGON_DANCE)
+    F(DRAGON_DANCE) \
+    F(IRON_HEAD)
 
 #define FOREACH_HM(F) \
     F(CUT) \
