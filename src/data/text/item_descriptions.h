@@ -3486,8 +3486,10 @@ static const u8 sTM91Desc[] = _(
     "stones that damage\n"
     "foe on switch in.");
 
-static const u8 sTM92Desc[] = _( // Todo
-    "?????");
+static const u8 sTM92Desc[] = _(
+    "A vigorous dance\n"
+    "that raises Attack\n"
+    "and Speed stats.");
 
 static const u8 sTM93Desc[] = _( // Todo
     "?????");
