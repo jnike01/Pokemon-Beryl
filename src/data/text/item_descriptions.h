@@ -3481,8 +3481,10 @@ static const u8 sTM90Desc[] = _(
     "breath that may\n"
     "cause foe a burn.");
 
-static const u8 sTM91Desc[] = _( // Todo
-    "?????");
+static const u8 sTM91Desc[] = _(
+    "A trap of floating\n"
+    "stones that damage\n"
+    "foe on switch in.");
 
 static const u8 sTM92Desc[] = _( // Todo
     "?????");

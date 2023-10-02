@@ -91,7 +91,8 @@
     F(SNARL) \
     F(DARK_PULSE) \
     F(DAZZLING_GLEAM) \
-    F(HEAT_WAVE)
+    F(HEAT_WAVE) \
+    F(STEALTH_ROCK)
 
 #define FOREACH_HM(F) \
     F(CUT) \
