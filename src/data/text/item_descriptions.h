@@ -3497,12 +3497,14 @@ static const u8 sTM93Desc[] = _(
     "Can flinch foe.");
 
 static const u8 sTM94Desc[] = _(
-    "Circulating bad\n"
+    "Circulates bad\n"
     "thoughts, raising\n"
     "user's Sp. Atk.");
 
-static const u8 sTM95Desc[] = _( // Todo
-    "?????");
+static const u8 sTM95Desc[] = _(
+    "The ground erupts\n"
+    "with power that may\n"
+    "lower foe's Sp. Def.");
 
 static const u8 sTM96Desc[] = _( // Todo
     "?????");
