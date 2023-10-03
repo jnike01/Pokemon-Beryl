@@ -3496,8 +3496,10 @@ static const u8 sTM93Desc[] = _(
     "steel-hard head.\n"
     "Can flinch foe.");
 
-static const u8 sTM94Desc[] = _( // Todo
-    "?????");
+static const u8 sTM94Desc[] = _(
+    "Circulating bad\n"
+    "thoughts, raising\n"
+    "user's Sp. Atk.");
 
 static const u8 sTM95Desc[] = _( // Todo
     "?????");

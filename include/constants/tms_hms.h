@@ -94,7 +94,8 @@
     F(HEAT_WAVE) \
     F(STEALTH_ROCK) \
     F(DRAGON_DANCE) \
-    F(IRON_HEAD)
+    F(IRON_HEAD) \
+    F(NASTY_PLOT)
 
 #define FOREACH_HM(F) \
     F(CUT) \
