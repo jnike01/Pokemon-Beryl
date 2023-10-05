@@ -8298,7 +8298,7 @@ const struct Item gItems[] =
         .secondaryId = MOVE_EARTH_POWER,
     },
 
-    [ITEM_TM96] =
+    [ITEM_TM_DRAGON_PULSE] =
     {
         .name = _("TM96"),
         .price = 3000,
@@ -8307,7 +8307,7 @@ const struct Item gItems[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_NONE, // Todo
+        .secondaryId = MOVE_DRAGON_PULSE,
     },
 
     [ITEM_TM97] =

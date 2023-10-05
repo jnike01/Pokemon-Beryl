@@ -96,7 +96,8 @@
     F(DRAGON_DANCE) \
     F(IRON_HEAD) \
     F(NASTY_PLOT) \
-    F(EARTH_POWER)
+    F(EARTH_POWER) \
+    F(DRAGON_PULSE)
 
 #define FOREACH_HM(F) \
     F(CUT) \
