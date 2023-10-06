@@ -97,7 +97,8 @@
     F(IRON_HEAD) \
     F(NASTY_PLOT) \
     F(EARTH_POWER) \
-    F(DRAGON_PULSE)
+    F(DRAGON_PULSE) \
+    F(SPIKES)
 
 #define FOREACH_HM(F) \
     F(CUT) \
