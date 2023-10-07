@@ -98,7 +98,8 @@
     F(NASTY_PLOT) \
     F(EARTH_POWER) \
     F(DRAGON_PULSE) \
-    F(SPIKES)
+    F(SPIKES) \
+    F(SEED_BOMB)
 
 #define FOREACH_HM(F) \
     F(CUT) \

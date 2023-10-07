@@ -3516,8 +3516,10 @@ static const u8 sTM97Desc[] = _(
     "at foe's feet\n"
     "that cause damage.");
 
-static const u8 sTM98Desc[] = _( // Todo
-    "?????");
+static const u8 sTM98Desc[] = _(
+    "User slams a\n"
+    "barrage of hard\n"
+    "seeds at foe.");
 
 static const u8 sTM99Desc[] = _( // Todo
     "?????");
