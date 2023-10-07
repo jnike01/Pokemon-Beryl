@@ -3521,8 +3521,10 @@ static const u8 sTM98Desc[] = _(
     "barrage of hard\n"
     "seeds at foe.");
 
-static const u8 sTM99Desc[] = _( // Todo
-    "?????");
+static const u8 sTM99Desc[] = _(
+    "The higher the\n"
+    "user's defense, the\n"
+    "more damage is done.");
 
 static const u8 sTM100Desc[] = _( // Todo
     "?????");

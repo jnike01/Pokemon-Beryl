@@ -453,6 +453,7 @@ static const u16 sBlastoiseTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_DARK_PULSE,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -1277,6 +1278,7 @@ static const u16 sNidoqueenTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -1434,6 +1436,7 @@ static const u16 sNidokingTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -3602,6 +3605,7 @@ static const u16 sSlowbroTeachableLearnset[] = {
     MOVE_GRASS_KNOT,
     MOVE_TRICK_ROOM,
     MOVE_NASTY_PLOT,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -4240,6 +4244,7 @@ static const u16 sOnixTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -4858,6 +4863,7 @@ static const u16 sLickitungTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_BULLDOZE,
     MOVE_DRAGON_TAIL,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -5063,6 +5069,7 @@ static const u16 sRhydonTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -5930,6 +5937,7 @@ static const u16 sLaprasTeachableLearnset[] = {
     MOVE_DRAGON_DANCE,
     MOVE_IRON_HEAD,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -6434,6 +6442,7 @@ static const u16 sSnorlaxTeachableLearnset[] = {
     MOVE_WILD_CHARGE,
     MOVE_IRON_HEAD,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -6719,6 +6728,7 @@ static const u16 sDragoniteTeachableLearnset[] = {
     MOVE_DRAGON_DANCE,
     MOVE_IRON_HEAD,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -8349,6 +8359,7 @@ static const u16 sSudowoodoTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -9328,6 +9339,7 @@ static const u16 sSteelixTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -10202,6 +10214,7 @@ static const u16 sMantineTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_IRON_HEAD,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -10250,6 +10263,7 @@ static const u16 sSkarmoryTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -10841,6 +10855,7 @@ static const u16 sMiltankTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -11213,6 +11228,7 @@ static const u16 sTyranitarTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -11858,6 +11874,7 @@ static const u16 sSwampertTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -13769,6 +13786,7 @@ static const u16 sAronTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -13813,6 +13831,7 @@ static const u16 sLaironTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -13888,6 +13907,7 @@ static const u16 sAggronTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -14531,6 +14551,7 @@ static const u16 sWailmerTeachableLearnset[] = {
     MOVE_ECHOED_VOICE,
     MOVE_SCALD,
     MOVE_BULLDOZE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -14573,6 +14594,7 @@ static const u16 sWailordTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_BULLDOZE,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -14710,6 +14732,7 @@ static const u16 sTorkoalTeachableLearnset[] = {
     MOVE_HEAT_WAVE,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -15683,6 +15706,7 @@ static const u16 sClaydolTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_NASTY_PLOT,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -16597,6 +16621,7 @@ static const u16 sWalreinTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_FROST_BREATH,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -16748,6 +16773,7 @@ static const u16 sRelicanthTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -17033,6 +17059,7 @@ static const u16 sMetagrossTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -17089,6 +17116,7 @@ static const u16 sRegirockTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -17204,6 +17232,7 @@ static const u16 sRegisteelTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -19666,6 +19695,7 @@ static const u16 sBronzongTeachableLearnset[] = {
     MOVE_TRICK_ROOM,
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -20218,6 +20248,7 @@ static const u16 sHippowdonTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -20730,6 +20761,7 @@ static const u16 sMagnezoneTeachableLearnset[] = {
     MOVE_GYRO_BALL,
     MOVE_WILD_CHARGE,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -20788,6 +20820,7 @@ static const u16 sLickilickyTeachableLearnset[] = {
     MOVE_GYRO_BALL,
     MOVE_BULLDOZE,
     MOVE_DRAGON_TAIL,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -20851,6 +20884,7 @@ static const u16 sRhyperiorTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -21253,6 +21287,7 @@ static const u16 sMamoswineTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -21770,6 +21805,7 @@ static const u16 sDialgaTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -21828,6 +21864,7 @@ static const u16 sPalkiaTeachableLearnset[] = {
     MOVE_TRICK_ROOM,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -21875,6 +21912,7 @@ static const u16 sHeatranTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -21920,6 +21958,7 @@ static const u16 sRegigigasTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -23446,6 +23485,7 @@ static const u16 sRoggenrolaTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -23477,6 +23517,7 @@ static const u16 sBoldoreTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -23512,6 +23553,7 @@ static const u16 sGigalithTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -24610,6 +24652,7 @@ static const u16 sDarmanitanTeachableLearnset[] = {
     MOVE_GRASS_KNOT,
     MOVE_U_TURN,
     MOVE_HEAT_WAVE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -24713,6 +24756,7 @@ static const u16 sCrustleTeachableLearnset[] = {
     MOVE_POISON_JAB,
     MOVE_STEALTH_ROCK,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -24927,6 +24971,7 @@ static const u16 sCofagrigusTeachableLearnset[] = {
     MOVE_TRICK_ROOM,
     MOVE_DARK_PULSE,
     MOVE_NASTY_PLOT,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -25160,6 +25205,7 @@ static const u16 sGarbodorTeachableLearnset[] = {
     MOVE_DARK_PULSE,
     MOVE_SPIKES,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -26222,6 +26268,7 @@ static const u16 sFerrothornTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_SPIKES,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -26799,6 +26846,7 @@ static const u16 sBearticTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_FROST_BREATH,
     MOVE_GRASS_KNOT,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -27169,6 +27217,7 @@ static const u16 sGolurkTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -27990,6 +28039,7 @@ static const u16 sReshiramTeachableLearnset[] = {
     MOVE_DRAGON_DANCE,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -28043,6 +28093,7 @@ static const u16 sZekromTeachableLearnset[] = {
     MOVE_DRAGON_DANCE,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -28137,6 +28188,7 @@ static const u16 sKyuremTeachableLearnset[] = {
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -30319,6 +30371,7 @@ static const u16 sHawluchaTeachableLearnset[] = {
     MOVE_GRASS_KNOT,
     MOVE_U_TURN,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -30390,6 +30443,7 @@ static const u16 sCarbinkTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -30492,6 +30546,7 @@ static const u16 sGoodraTeachableLearnset[] = {
     MOVE_DRAGON_TAIL,
     MOVE_INFESTATION,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -30777,6 +30832,7 @@ static const u16 sAvaluggTeachableLearnset[] = {
     MOVE_FROST_BREATH,
     MOVE_FLASH_CANNON,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -31021,6 +31077,7 @@ static const u16 sDiancieTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -31112,6 +31169,7 @@ static const u16 sVolcanionTeachableLearnset[] = {
     MOVE_FLASH_CANNON,
     MOVE_HEAT_WAVE,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 #endif
@@ -32081,6 +32139,7 @@ static const u16 sMudsdaleTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -32422,6 +32481,7 @@ static const u16 sBewearTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_BULLDOZE,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -33009,6 +33069,7 @@ static const u16 sTurtonatorTeachableLearnset[] = {
     MOVE_HEAT_WAVE,
     MOVE_IRON_HEAD,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -33224,6 +33285,7 @@ static const u16 sDhelmiseTeachableLearnset[] = {
     MOVE_GRASS_KNOT,
     MOVE_FLASH_CANNON,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -33361,6 +33423,7 @@ static const u16 sKommoOTeachableLearnset[] = {
     MOVE_DRAGON_DANCE,
     MOVE_IRON_HEAD,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -33883,6 +33946,7 @@ static const u16 sGuzzlordTeachableLearnset[] = {
     MOVE_HEAT_WAVE,
     MOVE_IRON_HEAD,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34115,6 +34179,7 @@ static const u16 sStakatakaTeachableLearnset[] = {
     MOVE_TRICK_ROOM,
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34261,6 +34326,7 @@ static const u16 sMelmetalTeachableLearnset[] = {
     MOVE_GIGA_IMPACT,
     MOVE_GYRO_BALL,
     MOVE_FLASH_CANNON,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 #endif
@@ -34353,6 +34419,7 @@ static const u16 sRillaboomTeachableLearnset[] = {
     MOVE_U_TURN,
     MOVE_SNARL,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34569,6 +34636,7 @@ static const u16 sGreedentTeachableLearnset[] = {
     MOVE_GYRO_BALL,
     MOVE_WILD_CHARGE,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34647,6 +34715,7 @@ static const u16 sCorviknightTeachableLearnset[] = {
     MOVE_U_TURN,
     MOVE_FLASH_CANNON,
     MOVE_NASTY_PLOT,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34678,6 +34747,7 @@ static const u16 sDottlerTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_INFESTATION,
     MOVE_TRICK_ROOM,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34708,6 +34778,7 @@ static const u16 sOrbeetleTeachableLearnset[] = {
     MOVE_INFESTATION,
     MOVE_U_TURN,
     MOVE_TRICK_ROOM,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34836,6 +34907,7 @@ static const u16 sDubwoolTeachableLearnset[] = {
     MOVE_PAYBACK,
     MOVE_GIGA_IMPACT,
     MOVE_WILD_CHARGE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34893,6 +34965,7 @@ static const u16 sDrednawTeachableLearnset[] = {
     MOVE_POISON_JAB,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -34996,6 +35069,7 @@ static const u16 sCarkolTeachableLearnset[] = {
     MOVE_HEAT_WAVE,
     MOVE_STEALTH_ROCK,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35035,6 +35109,7 @@ static const u16 sCoalossalTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
     MOVE_SPIKES,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35099,6 +35174,7 @@ static const u16 sAppletunTeachableLearnset[] = {
     MOVE_GRASS_KNOT,
     MOVE_DRAGON_PULSE,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35142,6 +35218,7 @@ static const u16 sSandacondaTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35572,6 +35649,7 @@ static const u16 sGrimmsnarlTeachableLearnset[] = {
     MOVE_DARK_PULSE,
     MOVE_DAZZLING_GLEAM,
     MOVE_NASTY_PLOT,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35619,6 +35697,7 @@ static const u16 sObstagoonTeachableLearnset[] = {
     MOVE_SNARL,
     MOVE_DARK_PULSE,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35806,6 +35885,7 @@ static const u16 sRunerigusTeachableLearnset[] = {
     MOVE_NASTY_PLOT,
     MOVE_EARTH_POWER,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -35964,6 +36044,7 @@ static const u16 sStonjournerTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_STEALTH_ROCK,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -36072,6 +36153,7 @@ static const u16 sCufantTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -36106,6 +36188,7 @@ static const u16 sCopperajahTeachableLearnset[] = {
     MOVE_STEALTH_ROCK,
     MOVE_IRON_HEAD,
     MOVE_EARTH_POWER,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -36273,6 +36356,7 @@ static const u16 sDuraludonTeachableLearnset[] = {
     MOVE_DARK_PULSE,
     MOVE_STEALTH_ROCK,
     MOVE_DRAGON_PULSE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -36514,6 +36598,7 @@ static const u16 sUrshifuTeachableLearnset[] = {
     MOVE_SNARL,
     MOVE_DARK_PULSE,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -36626,6 +36711,7 @@ static const u16 sGlastrierTeachableLearnset[] = {
     MOVE_BULLDOZE,
     MOVE_FROST_BREATH,
     MOVE_SNARL,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -37706,6 +37792,7 @@ static const u16 sLinooneGalarianTeachableLearnset[] = {
     MOVE_SNARL,
     MOVE_DARK_PULSE,
     MOVE_SEED_BOMB,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -37785,6 +37872,7 @@ static const u16 sDarmanitanGalarianTeachableLearnset[] = {
     MOVE_GRASS_KNOT,
     MOVE_U_TURN,
     MOVE_HEAT_WAVE,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -38482,6 +38570,7 @@ static const u16 sUrshifuRapidStrikeStyleTeachableLearnset[] = {
     MOVE_SNARL,
     MOVE_DARK_PULSE,
     MOVE_IRON_HEAD,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 
@@ -38523,6 +38612,7 @@ static const u16 sCalyrexIceRiderTeachableLearnset[] = {
     MOVE_FROST_BREATH,
     MOVE_TRICK_ROOM,
     MOVE_SNARL,
+    MOVE_BODY_PRESS,
     MOVE_UNAVAILABLE,
 };
 

@@ -99,7 +99,8 @@
     F(EARTH_POWER) \
     F(DRAGON_PULSE) \
     F(SPIKES) \
-    F(SEED_BOMB)
+    F(SEED_BOMB) \
+    F(BODY_PRESS)
 
 #define FOREACH_HM(F) \
     F(CUT) \
