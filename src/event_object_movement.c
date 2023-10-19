@@ -7631,14 +7631,17 @@ static const u8 sDisallowedIds[] = {
 };
 
 static const u8 sDisallowedWeathers[] = {
-    WEATHER_RAIN,
+    WEATHER_SANDSTORM,
     WEATHER_FOG_HORIZONTAL,
+    WEATHER_FOG_DIAGONAL,
 };
 
 typedef bool8 (*MetatileFunc)(u8);
 static const MetatileFunc sDisallowedMetatiles[] = {
     MetatileBehavior_IsTallGrass,
     MetatileBehavior_IsLongGrass,
+    MetatileBehavior_IsPuddle,
+    MetatileBehavior_IsHotSprings,
 };
 
 static bool8 IsShadowAllowedInId(struct ObjectEvent *objEvent) {
@@ -7687,14 +7690,22 @@ static bool8 IsShadowAllowedInMetatile(struct ObjectEvent *objEvent) {
     return TRUE;
 }
 
-static void GetGroundEffectFlags_Shadow(struct ObjectEvent *objEvent, u32 *flags) {
-    if(objEvent->invisible || !objEvent->active 
-        || !IsShadowAllowedInId(objEvent) || !IsShadowAllowedInWeather() || !IsShadowAllowedInMetatile(objEvent)){
-        objEvent->hasShadow = FALSE;
+static void GetGroundEffectFlags_Shadow(struct ObjectEvent *objectEvent, u32 *flags) {
+    if(objectEvent->invisible 
+        || !objectEvent->active 
+        || objectEvent->inHotSprings
+        || objectEvent->inSandPile
+        || MetatileBehavior_IsPokeGrass(objectEvent->currentMetatileBehavior)
+        || MetatileBehavior_IsPuddle(objectEvent->currentMetatileBehavior)
+        || MetatileBehavior_IsSurfableWaterOrUnderwater(objectEvent->currentMetatileBehavior)
+        || MetatileBehavior_IsSurfableWaterOrUnderwater(objectEvent->previousMetatileBehavior)
+        || !IsShadowAllowedInId(objectEvent) || !IsShadowAllowedInWeather() || !IsShadowAllowedInMetatile(objectEvent))
+    {
+        objectEvent->hasShadow = FALSE;
         return;
     }
 
-    if(objEvent->hasShadow)
+    if(objectEvent->hasShadow)
         return;
 
     *flags |= GROUND_EFFECT_SHADOW;
